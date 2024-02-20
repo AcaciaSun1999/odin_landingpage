@@ -54,5 +54,8 @@ button{
     background-color: #3882F6;
     color:#e5e7eb;
     border-radius: 8px;
+    font-size: 18px;
+    font-weight: 900;
+    box-sizing:content-box
     
 }
