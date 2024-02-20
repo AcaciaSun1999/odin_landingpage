@@ -59,3 +59,36 @@ button{
     box-sizing:content-box
     
 }
+
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.infotitle{
+    font-size: 36px;
+    font-weight: bolder;
+    color:#1F2937;
+    padding-bottom: 36px;
+}
+
+.infogallery{
+    display: flex;
+    gap:16px
+}
+
+.infogalleryitem{
+    display:flex;
+    flex-direction: column;
+}
+
+.infoimg{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
